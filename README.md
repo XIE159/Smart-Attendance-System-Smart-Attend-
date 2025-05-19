@@ -107,11 +107,12 @@ python src/main.py
 
 - **Manage Classes:** Add new classes and view existing ones.
 
-      ![Classes_Screen](https://github.com/user-attachments/assets/2e0183e1-3ba3-4c98-bd08-9b286cf60e3b)
+     ![Classes_Screen](https://github.com/user-attachments/assets/50e02da0-a439-4526-98dd-aa2f37ec1479)
 
+    
 - **Add Students:** Add students to classes and collect face samples.
 
-       ![Students_Screen](https://github.com/user-attachments/assets/44e6ea49-d0d7-4d51-9243-5b837ea5fefb)
+     ![Students_Screen](https://github.com/user-attachments/assets/2f3eea35-4397-4a76-b50f-3776db7799b0)
 
 - **Train Model:** After collecting samples, train the classifier for the class.
 - **Mark Attendance:** Use the GUI to upload an image and mark attendance automatically.
