@@ -102,8 +102,17 @@ python src/main.py
 
 ## Usage
 - **Login/Signup:** Start the app and log in or sign up as a teacher.
+
+     ![Sign-Up_Log-In_Screen](https://github.com/user-attachments/assets/641c0472-c9bc-481c-beba-0c5edabde325)
+
 - **Manage Classes:** Add new classes and view existing ones.
+
+      ![Classes_Screen](https://github.com/user-attachments/assets/2e0183e1-3ba3-4c98-bd08-9b286cf60e3b)
+
 - **Add Students:** Add students to classes and collect face samples.
+
+       ![Students_Screen](https://github.com/user-attachments/assets/44e6ea49-d0d7-4d51-9243-5b837ea5fefb)
+
 - **Train Model:** After collecting samples, train the classifier for the class.
 - **Mark Attendance:** Use the GUI to upload an image and mark attendance automatically.
 - **Generate Reports:** Export attendance records as CSV files.
