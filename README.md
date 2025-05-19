@@ -195,4 +195,5 @@ This project is for educational purposes.
 For questions or support:
 - Open an issue
 - Submit a pull request
+- Email: xie19113@gmail.com
 - Email: sameerrizwanf23@nutech.edu.pk
